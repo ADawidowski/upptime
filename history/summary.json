@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
-    "time": 1068,
-    "timeDay": 886,
-    "timeWeek": 1021,
-    "timeMonth": 1068,
-    "timeYear": 1068,
+    "time": 1075,
+    "timeDay": 1290,
+    "timeWeek": 1034,
+    "timeMonth": 1075,
+    "timeYear": 1075,
     "dailyMinutesDown": {
       "2025-05-28": 69
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.oomkill.net.ico",
     "slug": "web-mail",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 958,
-    "timeDay": 922,
-    "timeWeek": 933,
-    "timeMonth": 958,
-    "timeYear": 958,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 964,
+    "timeDay": 1199,
+    "timeWeek": 961,
+    "timeMonth": 964,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2025-06-06": 19,
       "2025-05-28": 69
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 148,
-    "timeDay": 139,
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 150,
+    "timeDay": 193,
     "timeWeek": 141,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "timeMonth": 150,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2025-05-28": 67
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 149,
-    "timeDay": 144,
+    "time": 150,
+    "timeDay": 191,
     "timeWeek": 141,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "timeMonth": 150,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2025-05-28": 66
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 149,
-    "timeDay": 139,
+    "time": 150,
+    "timeDay": 190,
     "timeWeek": 142,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "timeMonth": 150,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2025-05-28": 65
     }
