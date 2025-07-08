@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1081,
-    "timeDay": 1551,
-    "timeWeek": 1125,
-    "timeMonth": 1101,
-    "timeYear": 1081,
+    "time": 1078,
+    "timeDay": 943,
+    "timeWeek": 1070,
+    "timeMonth": 1078,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2025-05-28": 69
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 952,
-    "timeDay": 1023,
-    "timeWeek": 937,
-    "timeMonth": 956,
-    "timeYear": 952,
+    "time": 951,
+    "timeDay": 867,
+    "timeWeek": 891,
+    "timeMonth": 945,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2025-06-06": 19,
       "2025-05-28": 69
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 149,
-    "timeDay": 188,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "time": 148,
+    "timeDay": 123,
+    "timeWeek": 140,
+    "timeMonth": 147,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2025-05-28": 67
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 149,
-    "timeDay": 186,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "time": 148,
+    "timeDay": 127,
+    "timeWeek": 140,
+    "timeMonth": 147,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2025-05-28": 66
     }
@@ -86,16 +86,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pop-3-s",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 149,
-    "timeDay": 187,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "uptimeYear": "99.90%",
+    "time": 148,
+    "timeDay": 128,
+    "timeWeek": 140,
+    "timeMonth": 147,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2025-05-28": 65
     }
