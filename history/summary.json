@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oomkill.net.ico",
     "slug": "www",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 1078,
-    "timeDay": 1037,
-    "timeWeek": 1083,
-    "timeMonth": 1074,
-    "timeYear": 1078,
+    "uptimeYear": "99.90%",
+    "time": 1085,
+    "timeDay": 1454,
+    "timeWeek": 1138,
+    "timeMonth": 1086,
+    "timeYear": 1085,
     "dailyMinutesDown": {
       "2025-05-28": 69
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 952,
-    "timeDay": 978,
-    "timeWeek": 913,
-    "timeMonth": 946,
-    "timeYear": 952,
+    "time": 956,
+    "timeDay": 1170,
+    "timeWeek": 958,
+    "timeMonth": 950,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2025-06-06": 19,
       "2025-05-28": 69
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 148,
-    "timeDay": 141,
-    "timeWeek": 145,
-    "timeMonth": 147,
-    "timeYear": 148,
+    "time": 149,
+    "timeDay": 181,
+    "timeWeek": 151,
+    "timeMonth": 148,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2025-05-28": 67
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 148,
-    "timeDay": 140,
-    "timeWeek": 145,
-    "timeMonth": 147,
-    "timeYear": 148,
+    "time": 149,
+    "timeDay": 179,
+    "timeWeek": 151,
+    "timeMonth": 148,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2025-05-28": 66
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 148,
-    "timeDay": 140,
-    "timeWeek": 145,
-    "timeMonth": 147,
-    "timeYear": 148,
+    "time": 149,
+    "timeDay": 180,
+    "timeWeek": 151,
+    "timeMonth": 148,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2025-05-28": 65
     }
