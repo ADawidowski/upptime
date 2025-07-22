@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oomkill.net.ico",
     "slug": "www",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 1078,
-    "timeDay": 958,
-    "timeWeek": 1000,
-    "timeMonth": 1086,
-    "timeYear": 1078,
+    "uptimeYear": "99.92%",
+    "time": 1076,
+    "timeDay": 990,
+    "timeWeek": 1011,
+    "timeMonth": 1077,
+    "timeYear": 1076,
     "dailyMinutesDown": {
       "2025-05-28": 69
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1016,
-    "timeDay": 4717,
-    "timeWeek": 1401,
-    "timeMonth": 1079,
-    "timeYear": 1016,
+    "time": 1013,
+    "timeDay": 817,
+    "timeWeek": 1403,
+    "timeMonth": 1067,
+    "timeYear": 1013,
     "dailyMinutesDown": {
       "2025-06-06": 19,
       "2025-05-28": 69
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 147,
-    "timeDay": 119,
+    "timeDay": 121,
     "timeWeek": 131,
-    "timeMonth": 146,
+    "timeMonth": 143,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-05-28": 67
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 147,
-    "timeDay": 122,
+    "timeDay": 120,
     "timeWeek": 132,
-    "timeMonth": 146,
+    "timeMonth": 144,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-05-28": 66
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 147,
-    "timeDay": 120,
+    "timeDay": 121,
     "timeWeek": 131,
-    "timeMonth": 145,
+    "timeMonth": 143,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-05-28": 65
