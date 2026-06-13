@@ -4,11 +4,11 @@
     "url": "https://oomkill.net",
     "icon": "https://icons.duckduckgo.com/ip3/oomkill.net.ico",
     "slug": "www",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.86%",
     "time": 1309,
     "timeDay": 1134,
@@ -24,7 +24,8 @@
       "2026-02-19": 30,
       "2026-02-24": 27,
       "2026-02-28": 25,
-      "2026-04-05": 41
+      "2026-04-05": 41,
+      "2026-06-13": 5
     }
   },
   {
@@ -32,10 +33,10 @@
     "url": "https://mail.oomkill.net/rc",
     "icon": "https://icons.duckduckgo.com/ip3/mail.oomkill.net.ico",
     "slug": "web-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.83%",
     "time": 1142,
@@ -54,7 +55,8 @@
       "2026-02-24": 27,
       "2026-02-28": 25,
       "2026-04-05": 41,
-      "2026-05-13": 71
+      "2026-05-13": 71,
+      "2026-06-13": 1
     }
   },
   {
